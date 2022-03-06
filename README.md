@@ -20,3 +20,4 @@ https://drive.google.com/drive/folders/1X8mbLXZ2gTsvQvcFzaeEcFEmAhwndFos
 1. Install Java Runtime Environment (included in the google drive)
 2. Download the game.rar file and extract it
 3. Make sure to set the display scaling to 100% from the display settings on windows to avoid any bugs
+4. Run Empire Game.exe
