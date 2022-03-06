@@ -9,6 +9,10 @@ The goal is to build an army to be able to conquer the other 2 cities within 50 
 - Java with MVC model and an OOP approach 
 - Swing for the GUI
 
+## Preview Video
+
+https://drive.google.com/file/d/1EqXPXx8PSiOYT6vBFkM_IhPDXeAg0MOY/view?usp=sharing
+
 ## How to Play
 
 https://drive.google.com/drive/folders/1X8mbLXZ2gTsvQvcFzaeEcFEmAhwndFos
